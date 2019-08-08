@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e5d962f-af58-4529-ae22-ebe596260e7e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/zhangpeng/solrj/SolrClientManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="115" column="127" selection-start-line="115" selection-start-column="127" selection-end-line="115" selection-end-column="127" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SolrClient</find>
+      <find>SolrClient</find>
+      <find>SolrParams</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cn/zhangpeng/solrj/SolrClient.java" />
+        <option value="$PROJECT_DIR$/src/log4j2.xml" />
+        <option value="$PROJECT_DIR$/src/cn/zhangpeng/solrj/SolrClientManager.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\mavenrepository\repository" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="7" />
+    <option name="y" value="50" />
+    <option name="width" value="1834" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="solrjproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solrjproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solrjproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solrjproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solrjproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solrjproject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="solrj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="solrjproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="xml.catalog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\solrjproject\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SolrClientManager.findIndexBySolrClient">
+    <configuration name="SolrClientManager" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solrjproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zhangpeng.solrj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.zhangpeng.solrj" />
+      <option name="MAIN_CLASS_NAME" value="cn.zhangpeng.solrj.SolrClientManager" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrClientManager.addIndexBySolrClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solrjproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zhangpeng.solrj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.zhangpeng.solrj" />
+      <option name="MAIN_CLASS_NAME" value="cn.zhangpeng.solrj.SolrClientManager" />
+      <option name="METHOD_NAME" value="addIndexBySolrClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrClientManager.deleteIndexBySolrClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solrjproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zhangpeng.solrj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.zhangpeng.solrj" />
+      <option name="MAIN_CLASS_NAME" value="cn.zhangpeng.solrj.SolrClientManager" />
+      <option name="METHOD_NAME" value="deleteIndexBySolrClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrClientManager.findIndexBySolrClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solrjproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zhangpeng.solrj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.zhangpeng.solrj" />
+      <option name="MAIN_CLASS_NAME" value="cn.zhangpeng.solrj.SolrClientManager" />
+      <option name="METHOD_NAME" value="findIndexBySolrClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrClientManager.updateIndexBySolrClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="solrjproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zhangpeng.solrj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.zhangpeng.solrj" />
+      <option name="MAIN_CLASS_NAME" value="cn.zhangpeng.solrj.SolrClientManager" />
+      <option name="METHOD_NAME" value="updateIndexBySolrClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolrClientManager.findIndexBySolrClient" />
+        <item itemvalue="JUnit.SolrClientManager.updateIndexBySolrClient" />
+        <item itemvalue="JUnit.SolrClientManager.deleteIndexBySolrClient" />
+        <item itemvalue="JUnit.SolrClientManager.addIndexBySolrClient" />
+        <item itemvalue="JUnit.SolrClientManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e5d962f-af58-4529-ae22-ebe596260e7e" name="Default Changelist" comment="" />
+      <created>1565228399684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565228399684</updated>
+      <workItem from="1565228406764" duration="14969000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SolrClientManager_findIndexBySolrClient - 2019.08.08 at 19h 32m 14s.xml">
+      <configuration name="SolrClientManager.findIndexBySolrClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolrClientManager_findIndexBySolrClient - 2019.08.08 at 19h 36m 32s.xml">
+      <configuration name="SolrClientManager.findIndexBySolrClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolrClientManager_findIndexBySolrClient - 2019.08.08 at 19h 37m 34s.xml">
+      <configuration name="SolrClientManager.findIndexBySolrClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolrClientManager_findIndexBySolrClient - 2019.08.08 at 19h 38m 49s.xml">
+      <configuration name="SolrClientManager.findIndexBySolrClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolrClientManager_findIndexBySolrClient - 2019.08.08 at 19h 41m 09s.xml">
+      <configuration name="SolrClientManager.findIndexBySolrClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolrClientManager_findIndexBySolrClient - 2019.08.08 at 19h 41m 44s.xml">
+      <configuration name="SolrClientManager.findIndexBySolrClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolrClientManager_findIndexBySolrClient - 2019.08.08 at 19h 43m 17s.xml">
+      <configuration name="SolrClientManager.findIndexBySolrClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolrClientManager_findIndexBySolrClient - 2019.08.08 at 19h 45m 08s.xml">
+      <configuration name="SolrClientManager.findIndexBySolrClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolrClientManager_findIndexBySolrClient - 2019.08.08 at 19h 45m 37s.xml">
+      <configuration name="SolrClientManager.findIndexBySolrClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolrClientManager_findIndexBySolrClient - 2019.08.08 at 19h 45m 50s.xml">
+      <configuration name="SolrClientManager.findIndexBySolrClient" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14969000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1928" height="1044" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3061674" visible="true" weight="0.20127796" />
+      <window_info id="Structure" order="1" sideWeight="0.6938326" side_tool="true" visible="true" weight="0.20127796" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.30617678" side_tool="true" weight="0.24514039" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" weight="0.22786178" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6938232" visible="true" weight="0.5097192" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946752" weight="0.32937366" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.888412" visible="true" weight="0.20127796" />
+      <window_info id="Structure" order="6" sideWeight="0.112068966" side_tool="true" visible="true" weight="0.20127796" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.30617678" side_tool="true" visible="true" weight="0.24514039" />
+      <window_info anchor="bottom" id="Messages" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49946752" weight="0.22786178" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.6938232" visible="true" weight="0.24514039" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49946752" weight="0.32937366" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/Desktop/solr-8.2.0/dist/solr-solrj-8.2.0.jar!/org/apache/solr/client/solrj/SolrClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#16985#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/solr-solrj-8.2.0-sources.jar!/org/apache/solr/client/solrj/SolrClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="50" column="32" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#52605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/solr-solrj-8.2.0-sources.jar!/org/apache/solr/client/solrj/impl/HttpSolrClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="907">
+          <caret line="890" column="11" selection-start-line="890" selection-start-column="11" selection-end-line="890" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#30889#30890#0" expanded="true" />
+            <element signature="e#30951#30952#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j2-console.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/solr-solrj-8.2.0-sources.jar!/org/apache/solr/common/params/SolrParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/solr-solrj-8.2.0-sources.jar!/org/apache/solr/common/params/ModifiableSolrParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="91" column="12" lean-forward="true" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/solr-solrj-8.2.0-sources.jar!/org/apache/solr/client/solrj/SolrQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="485" column="46" lean-forward="true" selection-start-line="485" selection-start-column="46" selection-end-line="485" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zhangpeng/solrj/SolrClientManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="115" column="127" selection-start-line="115" selection-start-column="127" selection-end-line="115" selection-end-column="127" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>solrjproject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
